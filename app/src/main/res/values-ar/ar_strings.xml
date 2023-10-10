@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+
+    <string name="versions">Versions</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="content">arabic shlonak shlonak.</string>
+</resources>
